@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: javax.mail-<1.6.2>.jar
+props.put("mail.smtp.host", "localhost"); to props.put("mail.smtp.host", "smtp.gmail.com");
